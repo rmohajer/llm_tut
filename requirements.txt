@@ -4,3 +4,17 @@ pandas
 matplotlib
 crewai
 ollama
+pydantic
+httpx
+langchain
+langchain_community
+urllib3
+charset_normalizer
+tenacity
+langchain_core
+
+beautifulsoup4
+chromadb
+gradio
+requests
+PyPDF2==3.17.4
