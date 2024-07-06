@@ -17,4 +17,9 @@ beautifulsoup4
 chromadb
 gradio
 requests
-PyPDF2==3.17.4
+PyPDF2
+
+torch
+accelerate 
+transformers 
+bitsandbytes
