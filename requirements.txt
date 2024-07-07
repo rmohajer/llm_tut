@@ -23,3 +23,11 @@ torch
 accelerate 
 transformers 
 bitsandbytes
+
+scipy==1.12
+gensim
+
+tqdm 
+nltk
+tensorflow
+keras 
